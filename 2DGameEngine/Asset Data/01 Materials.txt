@@ -1,0 +1,61 @@
+#NAME# mat_Football #/NAME# #PATH# Images\Ball #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Crate_01 #/NAME# #PATH# Images\Crate - Ver 01 #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Crate_02 #/NAME# #PATH# Images\Crate - Ver 02 #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Crate_03 #/NAME# #PATH# Images\Crate - Ver 03 #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Crate_04 #/NAME# #PATH# Images\Crate - Ver 04 #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Black #/NAME# #PATH# Images\Black #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Anchor #/NAME# #PATH# Images\Anchor #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Aircraft #/NAME# #PATH# Images\Aircraft #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Tile #/NAME# #PATH# Images\Poly01 - Tile01 #/PATH# #TYPE# 0 #/TYPE# 
+#NAME# mat_Engine #/NAME# #PATH# Images\Engine #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Sky #/NAME# #PATH# Images\Sky #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_SegmentStart #/NAME# #PATH# Images\SegmentStart #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_SegmentEnd #/NAME# #PATH# Images\SegmentEnd #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_MoveBar #/NAME# #PATH# Images\Ui\MoveBar #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_MoveBarSlider #/NAME# #PATH# Images\Ui\MoveBarSlider #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Eli #/NAME# #PATH# Images\Eli #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_01 #/NAME# #PATH# Images\Game Character\Run\1 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_02 #/NAME# #PATH# Images\Game Character\Run\2 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_03 #/NAME# #PATH# Images\Game Character\Run\3 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_04 #/NAME# #PATH# Images\Game Character\Run\4 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_05 #/NAME# #PATH# Images\Game Character\Run\5 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_06 #/NAME# #PATH# Images\Game Character\Run\6 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_07 #/NAME# #PATH# Images\Game Character\Run\7 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_08 #/NAME# #PATH# Images\Game Character\Run\8 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_09 #/NAME# #PATH# Images\Game Character\Run\9 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_10 #/NAME# #PATH# Images\Game Character\Run\10 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_11 #/NAME# #PATH# Images\Game Character\Run\11 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_12 #/NAME# #PATH# Images\Game Character\Run\12 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Run_13 #/NAME# #PATH# Images\Game Character\Run\13 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Idle_01 #/NAME# #PATH# Images\Game Character\Idle\1 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Idle_02 #/NAME# #PATH# Images\Game Character\Idle\2 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Idle_03 #/NAME# #PATH# Images\Game Character\Idle\3 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Idle_04 #/NAME# #PATH# Images\Game Character\Idle\4 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Idle_05 #/NAME# #PATH# Images\Game Character\Idle\5 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_Idle_06 #/NAME# #PATH# Images\Game Character\Idle\6 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_01 #/NAME# #PATH# Images\Game Character\JumpVertical\1 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_02 #/NAME# #PATH# Images\Game Character\JumpVertical\2 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_03 #/NAME# #PATH# Images\Game Character\JumpVertical\3 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_04 #/NAME# #PATH# Images\Game Character\JumpVertical\4 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_05 #/NAME# #PATH# Images\Game Character\JumpVertical\5 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_06 #/NAME# #PATH# Images\Game Character\JumpVertical\6 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_07 #/NAME# #PATH# Images\Game Character\JumpVertical\7 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpVertical_08 #/NAME# #PATH# Images\Game Character\JumpVertical\8 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_FallVertical_01 #/NAME# #PATH# Images\Game Character\FallVertical\1 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_FallVertical_02 #/NAME# #PATH# Images\Game Character\FallVertical\2 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_FallVertical_03 #/NAME# #PATH# Images\Game Character\FallVertical\3 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_01 #/NAME# #PATH# Images\Game Character\JumpDiagonal\1 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_02 #/NAME# #PATH# Images\Game Character\JumpDiagonal\2 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_03 #/NAME# #PATH# Images\Game Character\JumpDiagonal\3 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_04 #/NAME# #PATH# Images\Game Character\JumpDiagonal\4 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_05 #/NAME# #PATH# Images\Game Character\JumpDiagonal\5 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_06 #/NAME# #PATH# Images\Game Character\JumpDiagonal\6 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_07 #/NAME# #PATH# Images\Game Character\JumpDiagonal\7 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_08 #/NAME# #PATH# Images\Game Character\JumpDiagonal\8 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_09 #/NAME# #PATH# Images\Game Character\JumpDiagonal\9 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_10 #/NAME# #PATH# Images\Game Character\JumpDiagonal\10 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_JumpDiagonal_11 #/NAME# #PATH# Images\Game Character\JumpDiagonal\11 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_FallDiagonal_01 #/NAME# #PATH# Images\Game Character\FallDiagonal\1 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_FallDiagonal_02 #/NAME# #PATH# Images\Game Character\FallDiagonal\2 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_FallDiagonal_03 #/NAME# #PATH# Images\Game Character\FallDiagonal\3 #/PATH# #TYPE# 0 #/TYPE#
+#NAME# mat_FallDiagonal_04 #/NAME# #PATH# Images\Game Character\FallDiagonal\4 #/PATH# #TYPE# 0 #/TYPE#
