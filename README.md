@@ -31,9 +31,16 @@ Provides tools to move, scale, and rotate objects within the editor, enabling in
 Displays the variables of selected objects in a side panel, allowing for easier debugging and manipulation of game objects.
 
 ---
-How to Run  
+## How to Run  
 Open the 2D Engine Solution in Visual Studio or your preferred C# IDE.
 Build the solution to ensure all dependencies are correctly set up.
 
 ---
-Future Work
+## Future Work
+
+---
+## Acknowledgements
+
+This project incorporates code from [BlizzCrafter](https://github.com/BlizzCrafter), which provides functionality for using MonoGame as a WinForms control. This code has been instrumental in enabling seamless integration between MonoGame and the editor interface.
+
+The original repository can be found [here](https://github.com/BlizzCrafter/MonoGame.Forms). 
